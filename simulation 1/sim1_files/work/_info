@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ronen/Desktop/Technion/semester_2/Digital_Systems_and_Computer_Structure/Workshops/simulation 1/sim1_files
+vmux2
+!s110 1545057779
+!i10b 1
+!s100 h3<boFMiB3>??8>kJRWMQ3
+IBd^dg2S_9iSgVESid0J392
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1545054728
+8mux2.v
+Fmux2.v
+L0 2
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1545057779.000000
+!s107 mux2.v|
+!s90 -reportprogress|300|mux2.v|
+!s101 -O0
+!i113 1
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmux4_test
+!s110 1545057785
+!i10b 1
+!s100 7Ao4AoHLBd4_BJegRWn<Y3
+I3k[C`4nV1591l^gD]2GIQ3
+R1
+R0
+w1545056822
+8mux2_test.v
+Fmux2_test.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1545057784.000000
+!s107 mux2_test.v|
+!s90 -reportprogress|300|mux2_test.v|
+!s101 -O0
+!i113 1
+R3

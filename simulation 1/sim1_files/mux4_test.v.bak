@@ -1,0 +1,68 @@
+// 4->1 multiplexer test bench template
+module mux4_test;
+
+// Put your code here
+// ------------------
+
+	//inputs
+	reg D0;
+	reg D1; 
+	reg D2; 
+	reg D3;
+	reg [1:0]SEL; 
+	
+	//outputs
+	wire Z;
+	
+	//instantiate the unit under test (UUT)
+	mux4 uut (
+		.d0(D0),
+		.d1(D1),
+		.d2(D2),
+		.d3(D3),
+		.sel(SEL),
+		.z(z)
+	);
+	
+	//change D0 every 100ns
+	always begin 
+	#100 D0 = ~D0;
+	end
+	
+	//initialize all inputs. change SEL1 after 3200ns
+	initial begin
+	D0 = 0;
+	D1 = 0;
+	D2 = 0;
+	D3 = 0; 
+	SEL[0] = 0;
+	SEL[1] = 0;
+	#3200;
+	SEL[1] = 1;
+	#3200;
+	$finish;
+	end
+	
+	//change D1 every 200ns
+	always begin
+	#50 D1 = ~D1;
+	end
+	
+	//change D2 every 400ns
+	always begin
+	#400 D2 = ~D2;
+	end
+	
+	//change D3 every 800ns
+	always begin
+	#800 D3 = ~D3;
+	end
+	
+	//change SEL[0] every 1600ns
+	always begin 
+	#1600 SEL[0] = ~SEL[0];
+	end
+
+// End of your code
+
+endmodule

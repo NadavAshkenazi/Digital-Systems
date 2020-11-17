@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ronen/Desktop/Technion/semester_2/Digital_Systems_and_Computer_Structure/Workshops/simulation 2/bengi/311314975
+vmult32x32
+!s110 1546095014
+!i10b 1
+!s100 c<Z0LEgl_R0LH6BgVbUW51
+IjI5l6z?BT90Gb1f7EB:Ha0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1545247286
+8mult32x32.v
+Fmult32x32.v
+L0 2
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1546095014.000000
+!s107 mult32x32.v|
+!s90 -reportprogress|300|mult32x32.v|
+!s101 -O0
+!i113 1
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmult32x32_arith
+!s110 1546095013
+!i10b 1
+!s100 =1?cGf?h6M3SEiU4100203
+IhfY:Z73WZLFk0c>eGREA30
+R1
+R0
+w1546095000
+8mult32x32_arith.v
+Fmult32x32_arith.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1546095013.000000
+!s107 mult32x32_arith.v|
+!s90 -reportprogress|300|mult32x32_arith.v|
+!s101 -O0
+!i113 1
+R3
+vmult32x32_fsm
+!s110 1546095012
+!i10b 1
+!s100 1hK_<X>A;Qgb@9UF>Uo;<0
+IJ58QbEbccSZFAUTPkh]cz1
+R1
+R0
+w1545675742
+8mult32x32_fsm.v
+Fmult32x32_fsm.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1546095011.000000
+!s107 mult32x32_fsm.v|
+!s90 -reportprogress|300|mult32x32_fsm.v|
+!s101 -O0
+!i113 1
+R3
+vmult32x32_test
+!s110 1546095015
+!i10b 1
+!s100 :`DOYOW5kPzlg6a0PIFHI2
+IIZea_@BJPN`VFP?llLSBF0
+R1
+R0
+w1545832752
+8mult32x32_test.v
+Fmult32x32_test.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1546095015.000000
+!s107 mult32x32_test.v|
+!s90 -reportprogress|300|mult32x32_test.v|
+!s101 -O0
+!i113 1
+R3

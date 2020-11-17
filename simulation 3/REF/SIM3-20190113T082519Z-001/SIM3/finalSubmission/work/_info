@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vrv_ctl
+Z0 !s110 1532630947
+!i10b 1
+!s100 Ll>=3OIM1QiO1CP24j8`c3
+I`6?WUJnKUN6M_CULmzL273
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/noamb/Google Drive/SIM3/finalSubmission
+Z3 w1532629163
+8C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_ctl.v
+FC:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_ctl.v
+Z4 Fparams.inc
+L0 7
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1532630947.000000
+!s107 params.inc|C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_ctl.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vrv_dp
+Z8 !s110 1532630948
+!i10b 1
+!s100 P>m3U<4A9h^=BS[006XEY1
+I0De61QNmh;:4zm[C8oBYL2
+R1
+R2
+R3
+8C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_dp.v
+FC:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_dp.v
+R4
+L0 7
+R5
+r1
+!s85 0
+31
+Z9 !s108 1532630948.000000
+!s107 params.inc|C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_dp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_dp.v|
+!s101 -O0
+!i113 1
+R7
+vrv_sim
+R8
+!i10b 1
+!s100 [S4_BdV_Hi@knJ_Foe^0C1
+I=zPR6;eQfmZX87UK^eNlK0
+R1
+R2
+R3
+8C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_sim.v
+FC:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_sim.v
+R4
+L0 8
+R5
+r1
+!s85 0
+31
+R9
+!s107 params.inc|C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_sim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_sim.v|
+!s101 -O0
+!i113 1
+R7
+vrv_top
+R0
+!i10b 1
+!s100 3gOff1DoEh_lojG[d_=Al2
+IS8BbDcmcfN2O4ZhkH;YcZ0
+R1
+R2
+w1532629164
+8C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_top.v
+FC:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_top.v
+L0 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/finalSubmission/rv_top.v|
+!s101 -O0
+!i113 1
+R7

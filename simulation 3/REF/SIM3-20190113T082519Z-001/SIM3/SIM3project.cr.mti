@@ -1,0 +1,59 @@
+{C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_sim.v} {0 {vlog -work work -stats=none {C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_sim.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rv_sim
+** Error: (vlog-13069) ** while parsing file included at C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_sim.v(23)
+** at C:\Users\noamb\Google Drive\SIM3\SIM3files\params.inc(11): near "=": syntax error, unexpected '='.
+
+** Error: ** while parsing file included at C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_sim.v(23)
+** at C:\Users\noamb\Google Drive\SIM3\SIM3files\params.inc(11): (vlog-13205) Syntax error found in the scope following 'MUL'. Is there a missing '::'?
+
+
+} {4.0 5.0 7.0 8.0} {}} {C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32.v} {1 {vlog -work work -stats=none {C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult32x32
+
+Top level modules:
+	mult32x32
+
+} {} {}} {C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_fsm.v} {1 {vlog -work work -stats=none {C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_fsm.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult32x32_fsm
+
+Top level modules:
+	mult32x32_fsm
+
+} {} {}} {C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_top.v} {1 {vlog -work work -stats=none {C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rv_top
+
+Top level modules:
+	rv_top
+
+} {} {}} {C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_ctl.v} {0 {vlog -work work -stats=none {C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_ctl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rv_ctl
+** Error: (vlog-13069) ** while parsing file included at C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_ctl.v(42)
+** at C:\Users\noamb\Google Drive\SIM3\SIM3files\params.inc(11): near "=": syntax error, unexpected '='.
+
+** Error: ** while parsing file included at C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_ctl.v(42)
+** at C:\Users\noamb\Google Drive\SIM3\SIM3files\params.inc(11): (vlog-13205) Syntax error found in the scope following 'MUL'. Is there a missing '::'?
+
+
+} {4.0 5.0 7.0 8.0} {}} {C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_dp.v} {0 {vlog -work work -stats=none {C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_dp.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rv_dp
+** Error: (vlog-13069) ** while parsing file included at C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_dp.v(66)
+** at C:\Users\noamb\Google Drive\SIM3\SIM3files\params.inc(11): near "=": syntax error, unexpected '='.
+
+** Error: ** while parsing file included at C:/Users/noamb/Google Drive/SIM3/SIM3files/rv_dp.v(66)
+** at C:\Users\noamb\Google Drive\SIM3\SIM3files\params.inc(11): (vlog-13205) Syntax error found in the scope following 'MUL'. Is there a missing '::'?
+
+
+} {4.0 5.0 7.0 8.0} {}} {C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_arith.v} {1 {vlog -work work -stats=none {C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_arith.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult32x32_arith
+
+Top level modules:
+	mult32x32_arith
+
+} {} {}}

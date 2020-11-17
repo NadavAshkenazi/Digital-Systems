@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vmult32x32
+Z0 !s110 1529580881
+!i10b 1
+!s100 I^^T]Wha?e0F`9k90JY7i1
+Ie@_V;5On4JzCnX0_[gbKe1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/noamb/Google Drive/SIM3
+Z3 w1529580822
+8C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32.v
+FC:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32.v
+L0 2
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1529580880.000000
+!s107 C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmult32x32_arith
+R0
+!i10b 1
+!s100 o5?dhWZ6B_b<nY><0cRH;0
+IJg1z?2a<E_Z5jZXm:dRSA0
+R1
+R2
+R3
+8C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_arith.v
+FC:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_arith.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z6 !s108 1529580881.000000
+!s107 C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_arith.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_arith.v|
+!s101 -O0
+!i113 1
+R5
+vmult32x32_fsm
+R0
+!i10b 1
+!s100 <o6GeRRASo9@n;CRW@JXT0
+Ikz>TohIYz40zg[QWLQLM41
+R1
+R2
+R3
+8C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_fsm.v
+FC:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_fsm.v
+L0 2
+R4
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/SIM3files/mult32x32_fsm.v|
+!s101 -O0
+!i113 1
+R5
+vrv_ctl
+Z7 !s110 1530036540
+!i10b 1
+!s100 Ll>=3OIM1QiO1CP24j8`c3
+I5W=U:^A0PQ5Q4nHF=GU_g2
+R1
+R2
+Z8 w1530036364
+8C:/Users/noamb/Google Drive/SIM3/Submission/rv_ctl.v
+FC:/Users/noamb/Google Drive/SIM3/Submission/rv_ctl.v
+Z9 Fparams.inc
+L0 7
+R4
+r1
+!s85 0
+31
+Z10 !s108 1530036540.000000
+!s107 params.inc|C:/Users/noamb/Google Drive/SIM3/Submission/rv_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/Submission/rv_ctl.v|
+!s101 -O0
+!i113 1
+R5
+vrv_dp
+R7
+!i10b 1
+!s100 P>m3U<4A9h^=BS[006XEY1
+I3THNGF`aFbX8V2@FgY>l:2
+R1
+R2
+R8
+8C:/Users/noamb/Google Drive/SIM3/Submission/rv_dp.v
+FC:/Users/noamb/Google Drive/SIM3/Submission/rv_dp.v
+R9
+L0 7
+R4
+r1
+!s85 0
+31
+R10
+!s107 params.inc|C:/Users/noamb/Google Drive/SIM3/Submission/rv_dp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/Submission/rv_dp.v|
+!s101 -O0
+!i113 1
+R5
+vrv_sim
+R7
+!i10b 1
+!s100 NCGHV7hKY=o6:3aQ`m47<0
+IZ;mUg8HfZ[7K^ZzoAR^ac0
+R1
+R2
+R8
+8C:/Users/noamb/Google Drive/SIM3/Submission/rv_sim.v
+FC:/Users/noamb/Google Drive/SIM3/Submission/rv_sim.v
+R9
+L0 8
+R4
+r1
+!s85 0
+31
+R10
+!s107 params.inc|C:/Users/noamb/Google Drive/SIM3/Submission/rv_sim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/Submission/rv_sim.v|
+!s101 -O0
+!i113 1
+R5
+vrv_top
+!s110 1530036539
+!i10b 1
+!s100 3gOff1DoEh_lojG[d_=Al2
+I<IVULL<onT@ndZ09SHNV33
+R1
+R2
+R8
+8C:/Users/noamb/Google Drive/SIM3/Submission/rv_top.v
+FC:/Users/noamb/Google Drive/SIM3/Submission/rv_top.v
+L0 8
+R4
+r1
+!s85 0
+31
+!s108 1530036539.000000
+!s107 C:/Users/noamb/Google Drive/SIM3/Submission/rv_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/noamb/Google Drive/SIM3/Submission/rv_top.v|
+!s101 -O0
+!i113 1
+R5
